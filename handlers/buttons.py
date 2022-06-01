@@ -2,6 +2,7 @@ from misc import *
 from aiogram import types
 import handlers.keyboard as kb
 from .functions import *
+from config import *
 
 
 
